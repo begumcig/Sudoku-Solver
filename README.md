@@ -1,4 +1,4 @@
-Sudoku Solver 
+<b>Sudoku Solver</b> 
 
 A backtracking algorithm written in C++ for the algorithms course. 
 
